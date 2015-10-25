@@ -1,0 +1,5 @@
+See the files features, features_info and README.txt for info on the variables for the tidy data set.  For the data, I just used there label.
+
+The first 2 columns of the tidy data table have the subject and activity.  Subject is just the subject number, 1 - 30, identifying who the subject was for the test.  And the activity column is just the activity being performed by the subject for that row of data.
+
+made rmd.
