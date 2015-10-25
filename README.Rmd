@@ -3,7 +3,6 @@ title: "README.md"
 output: html_document
 ---
 
-## Load Packages
 run_analysis.R first loads the packages data.table and dplyr.
 
 Next, the data is read.  The testing and training, subject, X and y are read along with activity_label and features.  I use these last 2 to contruct a vector with label actitivies that correspond the the y activity codes in the y dataframe and make the column headings for the data.
